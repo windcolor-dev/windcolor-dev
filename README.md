@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @windcolor-dev
-- 👀 I’m interested in Minecraft development.
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in coding in Java.
+- 🌱 I’m currently learning Java 
 
 <!---
 windcolor-dev/windcolor-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
